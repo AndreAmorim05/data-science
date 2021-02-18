@@ -1,1 +1,28 @@
-# data-science
+[![author](https://img.shields.io/badge/author-AndreAmorim05-red.svg)](https://www.linkedin.com/in/andré-amorim-44b886184/) [![](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-365/) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/AndreAmorim05/data-science/issues)
+
+<p align="center">
+  <img src="banner.png" >
+</p>
+
+# André Amorim
+<sub>*Graduando em Engenharia Mecânica* em IFPE</sub>
+
+
+
+**Background in:** Python e Machine Learning.
+
+**Links:**
+* [LinkedIn](https://www.linkedin.com/in/andré-amorim-44b886184/)
+
+
+## Projetos:
+Veja os tutoriais publicados do Sigmoidal:
+
+* **Análise dos Dados do Airbnb para o Rio de Janeiro** 
+
+
+---
+
+
+
+
