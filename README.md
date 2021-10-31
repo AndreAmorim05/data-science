@@ -21,7 +21,7 @@
 
 * **Analisando a Violência no Rio de Janeiro:** [Acessar Notebook](https://github.com/AndreAmorim05/data-science/blob/main/Analisando_a_Violência_no_Rio_de_Janeiro.ipynb)
 
-
+* **Analisando Doenças Cardiovasculares:** [Acessar Notebook](https://github.com/AndreAmorim05/data-science/blob/main/Projeto_Doenças_Cardiovasculares.ipynb)
 ---
 
 
