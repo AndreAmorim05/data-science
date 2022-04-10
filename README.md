@@ -17,6 +17,8 @@
 
 ## Projetos:
 
+* **Predição de Faturamento do Novo Filme 007:** [Acessar Notebook](https://github.com/AndreAmorim05/data-science/blob/main/Predição_de_Faturamento_do_Novo_Filme_007.ipynb)
+
 * **Análise dos Dados do Airbnb para o Rio de Janeiro:** [Acessar Notebook](https://github.com/AndreAmorim05/data-science/blob/main/analise_dos_dados_do_airbnb_para_o_rio_de_janeiro.ipynb)
 
 * **Analisando a Violência no Rio de Janeiro:** [Acessar Notebook](https://github.com/AndreAmorim05/data-science/blob/main/Analisando_a_Violência_no_Rio_de_Janeiro.ipynb)
